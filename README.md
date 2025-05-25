@@ -12,7 +12,7 @@ pkg install git -y
 ```
 ## 7. Clone repo ini
 ```
-git clone https://github.com/topibajaa/qriskonverter.git
+git clone https://github.com/topibajaa/qris.git
 cd qriskonverter
 ```
 ## 8. Jalankan script
